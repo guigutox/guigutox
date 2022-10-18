@@ -1,5 +1,5 @@
 
-#My name is Guilherme and my nickname is "guigutox"!
+##My name is Guilherme and my nickname is "guigutox"!
 🔭 I am currently studying information systems at UFU (Federal University of Uberlandia).
 📫 Email: guilhermegutofer@gmail.com
 
