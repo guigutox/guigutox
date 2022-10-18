@@ -3,11 +3,12 @@ My name is Guilherme and my nickname is "guigutox"!<br>
 🔭 I am currently studying information systems at UFU (Federal University of Uberlandia).<br>
 📫 Email: guilhermegutofer@gmail.com
 
-##Estou aprendendo
+##Estou aprendendo <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/>
-                   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
+                           
 
 
 
