@@ -1,6 +1,6 @@
 
-##My name is Guilherme and my nickname is "guigutox"!
-🔭 I am currently studying information systems at UFU (Federal University of Uberlandia).
+##My name is Guilherme and my nickname is "guigutox"!<br>
+🔭 I am currently studying information systems at UFU (Federal University of Uberlandia).<br>
 📫 Email: guilhermegutofer@gmail.com
 
 <div>
